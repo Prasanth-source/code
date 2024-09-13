@@ -1,0 +1,13 @@
+                                     Session-15
+                                 -----------------------
+                                 Working With Rejected Records
+                                 Load History
+                                 
+                                 https://youtu.be/rzc_yZHGusE
+                                 
+    20 -> SQL
+   
+    21-50 --> SQLS
+   
+    Create AWS account --> https://youtu.be/CCaVgwVGlt8?si=WrAE8NW0UpHob4uP  
+    Create Azure Account --> https://youtu.be/theBCIC0Pd0?si=OLw2tBNdXm4JqyWf

@@ -1,0 +1,142 @@
+1) Display the
+details of all employees 
+
+ANS: select * from employees
+
+2) Display the depart information from
+department table 
+
+ANS: select * from department
+
+3) Display the name and job for all the
+employees 
+
+ANS:select name,job from employees
+
+4) Display the name and salary  for all the employees 
+
+ANS: select name,salary from employees
+
+5) Display the employee no and
+totalsalary  for all the employees 
+
+ANS:select employee_no,totalsalary from employees
+
+6) Display the employee name and annual
+salary for all employees. 
+
+ANS:select name,annualsalary from employees
+
+7) Display the names of all the employees
+who are working in depart number 10. 
+
+ANS:select employeename from employees
+                        where depart_no=10
+						
+8) Display the names of all the employees
+who are working as clerks and  drawing
+a salary more than 3000. 
+
+ANS:select employee_name,salary from employees
+                         where department_name = clerks  and salary > 3000
+
+9) Display the employee number and
+name  who are earning comman salalry
+
+ANS:select employee_number,employee_name,salary from employees order by salary
+
+10) Display the employee number and
+name  who do not earn any common salary
+
+
+
+ 
+
+
+
+11) Display the names of employees who
+are working as clerks, salesman or 
+analyst and drawing a salary more than 3000. 
+
+
+
+
+
+
+
+12) Display the names of the employees
+who are working in the company for  the
+past 5 years; 
+
+
+
+
+
+
+
+13) Display the list of employees who
+have joined the company before 
+30-JUN-90 or after 31-DEC-90. 
+
+
+
+
+
+
+
+14) Display current Date. 
+
+
+
+ 
+
+
+
+15) Display the list of all users in your
+database (use catalog table). 
+
+
+
+ 
+
+
+
+16) Display the names of all tables from
+current user; 
+
+
+
+ 
+
+
+
+17) Display the name of the current
+user. 
+
+
+
+ 
+
+
+
+18) Display the names of employees
+working in depart number 10 or 20 or 40 
+or employees working as CLERKS,SALESMAN or ANALYST. 
+
+
+
+
+
+
+
+19) Display the names of employees whose
+name starts with alaphabet S. 
+
+
+
+ 
+
+
+
+20) Display the Employee names for
+employees whose name ends with alaphabet S.
