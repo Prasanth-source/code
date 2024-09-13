@@ -1,0 +1,27 @@
+                                      Session-10
+								 -----------------------
+								 
+								    ETL VS ELT 
+									
+									https://youtu.be/BE1fOYIXD4Y
+									
+				E --> Extract 
+				T --> Transform 
+				L --> Load 
+				
+				
+				
+				E --> Extract 
+				L --> Load 
+				T --> Transform 
+				
+				
+				
+				Load the data -->  copy command 
+				
+				  copy into <tableName>
+				     from  <s3 location/Stage>
+					 
+				 fileformat 
+				 
+				  Stage  
