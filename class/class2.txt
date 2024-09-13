@@ -1,0 +1,6 @@
+
+   TASK: 
+   --------------
+   1) Create all 7 tables 
+   2) Load the data using inser SQLs
+   3) Display the count 

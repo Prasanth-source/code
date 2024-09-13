@@ -1,0 +1,18 @@
+
+								        Session-3
+								-----------------------
+								
+								DDL & DML / DQL operations 
+                                
+create or replace table student (sid int , sname string)
+
+alter table student 
+add column email string;
+
+
+alter table student 
+add column phone int;
+
+
+alter table student 
+modify  column phone number(10);

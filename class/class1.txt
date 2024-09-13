@@ -1,0 +1,46 @@
+                                   Session-1
+                                -----------------------
+                                https://youtu.be/Y0H9DRctYHM?si=j8trYYv-3pMFHWAA
+                               
+                                What is SQL
+                                What is Data Base /Schema
+                                How to create tables
+                                Load the data into tables
+   
+What Snowflake:
+ 1. Snowflake is a cloud based data ware house platform
+ 2. Mainly we are using for Data storage , Data processing and Analytical solutions
+ 3. It built on top of AWS , Azure or GCP
+ 4. We can store structred data ,semi structurd data and Unstructured Data
+ 5. It is a S-a-a-s (Software as a service ) model
+ 
+ 
+ SQL :  Structured query language , In order to communicate any database we are using SQL
+        C --> Create table/database / insert
+        R --> Read data
+        U --> Update data
+        D --> Delete
+       
+        Its same like English laguage
+       
+ Data base : It is collection of Data (Structured , semi structured and unstructured)
+               Structured --> Xls, CSV (Table format)
+               Semi strctured --> json , Xml
+               Un structrued --> docs , pdf, images , auido ..etc
+               
+  MySQL
+  oracle
+  Ms-sql  
+  postgrage
+  mangodb
+  Azure SQL
+  snowflake  
+ 
+  Banks
+  -------
+  HDFC , ICIC , AXIS
+ 
+  Create database  bank ;
+ 
+ 
+  Schema : Logical represetaion of the tables /data

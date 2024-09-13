@@ -1,0 +1,77 @@
+
+								        Session-5
+								 -----------------------
+								 CTE   common table expressions 
+								 Case 
+								 Row number 
+								 Rank 
+								 Dense rank 
+								 
+								 
+	age = 20 
+	
+	
+	if (age > 18 )
+	   print(eligilble)
+	 else 
+	   print(not eliigble)
+	   
+	   
+	   
+	CASE 
+	
+	  when (age) > 18 then 'eligible'   else 'not eliigile'
+	
+	End 
+	
+	
+	TASk: 
+	
+	Crate table  orders    (order_id , amount )
+	
+	1     2000
+	2     -20
+	3     300
+	4     3000
+	5     -200
+	
+	
+	o/p:
+	--------
+ORDER ID   AMOUNT   PROFIT_LOSS
+	1     2000      profit
+	2     -20       loss 
+	3     300       profit
+	4     3000      profit 
+	5     -200      loss
+	
+	
+Crate table  days    (day )
+	
+	1     
+	2    
+	3     
+	4     
+	5   
+	6
+	7
+	8
+	9
+	10
+	
+	-----------
+	
+	1       sunday 
+	2       monday 
+	3       tues day 
+	4       thur
+	5   
+	6
+	7
+	8
+	9
+	10
+	
+	
+	dISPLAY employeeid, name , slary , dept id 
+	   based on dept id display the higest salary 
