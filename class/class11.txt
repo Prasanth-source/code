@@ -1,0 +1,13 @@
+                                     Session-11
+								 -----------------------
+								      Data Loading 
+								 
+	Internal stages:
+
+
+	Stage can be internal/external locations .
+	
+	
+	1) create internal stage 
+	2) load data into stages 
+	3) from stage you can copy into table 

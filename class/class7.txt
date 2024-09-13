@@ -1,0 +1,19 @@
+                                      Session-7
+                                 -----------------------
+                                 
+                                 Union
+                                 Union all
+                                 
+                                 Snowflake & features 
+                                 
+                                https://youtu.be/sYZbt9Jzaeo 
+                                 
+    Union :  if you want to combine 2 or more tables with specific column name     or all columns
+                  (remove duplicates)   Data type should match
+   union all:     also same like union only but here it will not remove any duplicates
+   
+   
+   TASK: numeric functions (10)
+         Date functions
+   
+        up to 30 pages from material (joins)

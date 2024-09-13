@@ -1,0 +1,67 @@
+                                      Session-9
+                                 -----------------------
+                                 
+                                 Git & Git hub
+                                 
+                                 code repos
+                                 
+                                 https://youtu.be/iZ_HXgmLshc
+       vs code download -- https://code.visualstudio.com/docs/?dv=win64user
+                          
+    Git -> Version Controle tool  
+   
+    Git hub --> code repository
+   
+    vitech --> 3 days (sql scripts)   7 days on leave
+   
+              10 days (system local)  crashed (lose entire data)
+             
+             
+              EOD --> we are going push our code into repositories
+             
+             
+    Git hub --> free
+    Azure Devops (ADO)  (mirosoft account)
+        https://signup.live.com/signup?client_id=81feaced-5ddd-41e7-8bef-3e20a2689bb7&contextid=3CDC22D817250AB0&opid=FD2D9E74258FF567&bk=1725252083&sru=https://login.live.com/oauth20_authorize.srf%3fclient_id%3d81feaced-5ddd-41e7-8bef-3e20a2689bb7%26client_id%3d81feaced-5ddd-41e7-8bef-3e20a2689bb7%26contextid%3d3CDC22D817250AB0%26opid%3dFD2D9E74258FF567%26mkt%3dEN-US%26lc%3d1033%26bk%3d1725252083%26uaid%3d3d069793518b44ffb7a03badce00c540&lw=easi2&fl=1&uiflavor=web&lic=1&mkt=EN-US&lc=1033&uaid=3d069793518b44ffb7a03badce00c540
+       
+    Bitbucket    
+   
+   
+   
+    To access ADO --> https://dev.azure.com/
+   
+   
+   
+    1)  Create Repository (Project name )  
+           vitech-snow-practice
+           
+    2) Create branch (develop/feature_release_1)
+   
+    3) Clone the project into local system
+   
+    4) Modify the project / add the files
+   
+    5) Commit the code
+   
+   
+    6) push the code into repos
+   
+   
+    Clone:
+    -----------
+    git clone  <url>  -b <branchname>
+   
+   
+   
+    Push :
+    ----------
+    git status
+   
+    git add .   / git add <filename>
+   
+    git status
+   
+   
+    git commit -m "comments"
+   
+    git push -u origin <branch>

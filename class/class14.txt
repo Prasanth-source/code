@@ -1,0 +1,59 @@
+                                    
+								        Session-14
+								 -----------------------
+								 
+								 Working With semistructured Data 
+                                 
+                                 https://youtu.be/iCqGegVFjc0
+								 
+								 
+	
+   AWS -->  Stage    --> Load (copy command)   --> copy options   (Table)
+
+
+
+          snowflake    
+		  
+		  
+		  Creata a table with Variant DataType ---> 
+		  
+		  
+		{
+  "city": "Bakersfield",
+  "first_name": "Portia",
+  "gender": "Male",
+  "id": 1,
+  "job": {
+    "salary": 32000,
+    "title": "Financial Analyst"
+  },
+  "last_name": "Gioani",
+  "prev_company": [],
+  "spoken_languages": [
+    {
+      "language": "Kazakh",
+      "level": "Advanced"
+    },
+    {
+      "language": "Lao",
+      "level": "Basic"
+    }
+  ]
+}  
+		
+spoken_languages[0]		
+		  
+		  -------------------
+		  
+		  {
+  "__index_level_0__": 7,
+  "cat_id": "HOBBIES",
+  "d": 489,
+  "date": 1338422400000000,
+  "dept_id": "HOBBIES_1",
+  "id": "HOBBIES_1_008_CA_1_evaluation",
+  "item_id": "HOBBIES_1_008",
+  "state_id": "CA",
+  "store_id": "CA_1",
+  "value": 12
+}

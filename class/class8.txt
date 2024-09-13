@@ -1,0 +1,34 @@
+                                      Session-8
+                                 -----------------------
+                                 
+                                 Snowflake Architecture
+                                 Costing
+                                 Datawarehouse / sizes
+                                 EDITIONS
+                                 
+                   Class recordings:  https://youtu.be/ZcY8d47qdLM
+              
+    https://docs.snowflake.com/en/user-guide/intro-key-concepts
+   
+   
+    TASK:
+    ---------------
+     git / github
+     
+     
+     https://www.youtube.com/watch?v=o1YDW_jnvvk&list=PLFPnaYaZXRwwvBL6hWxVJU-ZN6KoGKSqH
+     
+     
+     Create sample repository
+     load the data (Assignments)
+     
+     
+     
+     repo -->  vitech-snowflake-assignments
+               Assigment-1
+               Assignemnt-2
+               
+               
+   create microsoft account -->  https://signup.live.com/signup?client_id=81feaced-5ddd-41e7-8bef-3e20a2689bb7&contextid=6029B78027BB675C&opid=9DE670FA84C6BC9D&bk=1724996050&sru=https://login.live.com/oauth20_authorize.srf%3fclient_id%3d81feaced-5ddd-41e7-8bef-3e20a2689bb7%26client_id%3d81feaced-5ddd-41e7-8bef-3e20a2689bb7%26contextid%3d6029B78027BB675C%26opid%3d9DE670FA84C6BC9D%26mkt%3dEN-GB%26lc%3d2057%26bk%3d1724996050%26uaid%3d5eec86781aba4737a38fca29e266df69&lw=easi2&fl=1&uiflavor=web&lic=1&mkt=EN-GB&lc=2057&uaid=5eec86781aba4737a38fca29e266df69
+
+   prepare a notes for today's class

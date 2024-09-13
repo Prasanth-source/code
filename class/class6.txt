@@ -1,0 +1,37 @@
+                                    Session-6
+								 -----------------------
+								       Joins 
+									   
+									   
+	Joins: Joins are nothing but to combine 2 or more tables based on common key 
+
+   Inner join :  Matching values from both the tables 
+   Left join :  inner join + remaining values from left side table 
+                   or 
+				 print all the values from left side table and matched values from right side 
+   Right join : inner join + remaining values from right side table 
+                 or
+			print all the values from right side table and matched values from left side  
+   full join: combination of both left side + right side table 
+   	
+	
+	
+	Task: 
+   self join
+   cross join 
+   
+   
+   
+   Aus
+   south 
+   ind
+   eng
+   
+   
+   
+   Aus Vs eng 
+   aus Vs south 
+
+
+
+

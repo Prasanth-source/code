@@ -1,0 +1,44 @@
+                                      Session-12
+                                 -----------------------
+                                      Data Loading
+                                     
+                                     External Stages
+                                     
+   AWS
+   Azure
+   GCP
+
+Class Recordings: https://youtu.be/TF2Jt66ny9k
+     
+     
+    AWS   ---> Stage --->  Load data --< snowflake>  
+   
+        By using COpy command
+       
+       
+    AWS -->      url='s3://bucketsnowflakes3'  
+
+
+   Snowflake --> Order tables    
+   
+   https://github.com/VITechTalks/Sql-Practice
+   
+   TASK:  Git hub --> urls
+   
+   1) Load loan payment data using external stages --> Today
+   2) Up to today (ETL/ELT   Internal stages and Externals stages ) --> tomorrow
+   3) SQL questions 1-20  you need to answer   (Tues day)
+   
+     Prepare SQLs and load the data into Github and share the urls
+     
+     1) Display the details of all employees
+     
+     Ans:  Select * from employees ;
+
+     2) Display the depart information from department table
+     
+     Ans: select * from department
+     
+     3) Display the name and job for all the employees
+     
+     Ans:  Select  name , job  from employees  
