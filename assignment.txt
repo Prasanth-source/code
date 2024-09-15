@@ -48,27 +48,20 @@ ANS:select employee_number,employee_name,salary from employees order by salary
 10) Display the employee number and
 name  who do not earn any common salary
 
-
-
+ANS:select employee_id,first_name from employees order by salary 
  
-
-
-
 11) Display the names of employees who
 are working as clerks, salesman or 
 analyst and drawing a salary more than 3000. 
 
-
-
-
-
-
+ANS:select first_name from employess where job in (clerks,salesman,analyst)
+                       and salary >3000
 
 12) Display the names of the employees
 who are working in the company for  the
 past 5 years; 
 
-
+ANS:
 
 
 
@@ -86,11 +79,7 @@ have joined the company before
 
 14) Display current Date. 
 
-
-
- 
-
-
+ANS:SELECT CAST(GETDATE() AS DATE) AS current_date;
 
 15) Display the list of all users in your
 database (use catalog table). 
@@ -104,39 +93,30 @@ database (use catalog table).
 16) Display the names of all tables from
 current user; 
 
-
-
+ANS:show tables;
  
-
-
-
 17) Display the name of the current
 user. 
 
-
-
+ANS:SELECT CURRENT_USER();
  
-
-
-
 18) Display the names of employees
 working in depart number 10 or 20 or 40 
 or employees working as CLERKS,SALESMAN or ANALYST. 
 
 
-
-
+ANS:select first_name from employees where department_name in (CLERKS,SALESMAN,ANALYST)
+                               and department_id in (10,20,40) 
 
 
 
 19) Display the names of employees whose
 name starts with alaphabet S. 
 
-
-
- 
-
-
+ ANS:select first_name from employees where first_name like 's%'
 
 20) Display the Employee names for
 employees whose name ends with alaphabet S.
+
+ANS:select first_name from employees where firstname like '%s'
+
